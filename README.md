@@ -43,4 +43,4 @@ https://colab.research.google.com/drive/1rEJLCUzFmkjmScXfbfaha13biHx7moh8#scroll
 
 ![](https://github.com/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1/blob/main/images/Untitled1.png)    
 
-#### Note: There is still work in progress. More options will be added to the project soon.
+##### Note: There is still work in progress. More options will be added to the project soon.
